@@ -6,7 +6,7 @@ import codingsaint.configurations.AppConfig;
 
 /**
  * 
- * @author U6025932
+ * @author Coding Saint
  *
  */
 public class SpringConfigurationInitializer extends

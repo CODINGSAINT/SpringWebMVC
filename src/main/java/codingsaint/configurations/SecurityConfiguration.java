@@ -88,7 +88,7 @@ public class SecurityConfiguration extends WebSecurityConfigurerAdapter {
 				// in the order they are configured below. So /** (anyRequest())
 				// should always be at the bottom of the list.
 				.authorizeRequests()
-				.antMatchers("/login**", "/sso**", "/cs/**")
+				.antMatchers("/**")
 				.permitAll()
 				.antMatchers("/admin/**")
 				.hasRole("ADMIN")
@@ -114,7 +114,7 @@ public class SecurityConfiguration extends WebSecurityConfigurerAdapter {
 				.formLogin()
 				.loginPage("/login")
 				.loginProcessingUrl("/login.do")
-				.defaultSuccessUrl("/")
+				.defaultSuccessUrl("/secure")
 				.failureUrl("/login?error=1")
 				.usernameParameter("username")
 				.passwordParameter("password")

@@ -11,7 +11,7 @@ import javax.servlet.ServletResponse;
 import javax.servlet.http.HttpServletRequest;
 
 /**
- * @author U6025932
+ * @author Coding Saint
  *
  */
 public class RequestWrappingFilter implements Filter {
