@@ -208,7 +208,7 @@ pre {
 
 <section class='container'>
           <hgroup>
-            <h1>Welcome to Coding Saint ! IndexM</h1>
+            <h1>Welcome to Coding Saint ! IndexN</h1>
           </hgroup>
 
 
