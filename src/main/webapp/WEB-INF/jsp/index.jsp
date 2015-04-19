@@ -208,7 +208,7 @@ pre {
 
 <section class='container'>
           <hgroup>
-            <h1>Welcome to Coding Saint ! IndexS</h1>
+            <h1>Welcome to Coding Saint ! IndexM</h1>
           </hgroup>
 
 
@@ -254,7 +254,7 @@ $ git push</pre>
                 <h2>Development Resources</h2>
                   <h3>JBoss Developer Studio</h3>
                   <p>
-                    The JBoss Developer Studio is a full featured IDE with OpenShift integration built in.
+                    The JBoss Developer Studio is a full featured IDE  OpenShift integration built in.
                     It gives you the ability to create, edit and deploy applications without having to
                     leave the IDE.  Links to download, install and use the JBoss Developer Studio for Linux,
                     Mac OS X, or Windows can be found on the
